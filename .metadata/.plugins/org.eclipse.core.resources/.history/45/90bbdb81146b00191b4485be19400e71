@@ -1,0 +1,76 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!--  Header & Menu  -->
+            <header id="header" class="border">
+                <div class="container">
+                    <nav class="navbar navbar-default">
+                        <!--  Header Logo  -->
+           				<a class="navbar-brand" href="index.jsp"><img src="assets/img/Pl/liv.jpg"></a>
+                        <!--  END Header Logo  -->
+                        <!--  Menu  -->
+                        <div id="sidemenu">
+                            <div class="menu-holder" >
+                                <ul>
+                                        <a href="homekit.jsp" class="active-item">Home Kit</a>
+                                       <!--  <ul class="sub-menu">
+                                            <li><a href="index.html">남성</a></li>
+                                            <li><a href="index-creative.html">여성</a></li>
+                                        </ul> -->
+                                    </li>
+                                    <li class="submenu">
+                                        <a href="awaykit.jsp">Away Kit</a>
+                                       <!--  <ul class="sub-menu">
+                                            <li><a href="index.html">남성</a></li>
+                                            <li><a href="index-creative.html">여성</a></li>
+                                        </ul> -->
+                                    </li>
+                                    <li class="submenu">
+                                        <a href="souvenir.jsp">기념품</a>
+                                        <!-- <ul class="sub-menu">
+                                            <li><a href="about.html">핸드폰케이스</a></li>
+                                            <li><a href="page-image-header.html">스카프</a></li>
+                                            <li><a href="services.html">머그컵</a></li>
+                                        </ul> -->
+                                    </li>
+                                    <li class="submenu">
+                                        <a href="fashion.jsp">패션</a>
+                                       <!--  <ul class="sub-menu">
+                                            <li><a href="portfolio-two-columns.html">남성</a></li>
+                                            <li><a href="portfolio-three-columns.html">여성</a></li> 
+                                        </ul> -->
+                                    </li>
+                                
+                                    <li>
+                                        <a href="Login.jsp">로그인</a>
+                                    </li>
+                                    <li>
+                                        <a href="Register.jsp">회원가입</a>
+                                    </li>
+                                    <!-- Lang -->
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <!--  END Menu  -->
+                        <!--  Button for Responsive Menu  -->
+                        <div id="menu-responsive-sidemenu">
+                            <div class="menu-button">
+                                <span class="bar bar-1"></span>
+                                <span class="bar bar-2"></span>
+                                <span class="bar bar-3"></span>
+                            </div>
+                        </div>
+                        <!--  END Button for Responsive Menu  -->
+                    </nav>
+                </div>
+            </header>
+            <!--  END Header & Menu  -->
+</body>
+</html>

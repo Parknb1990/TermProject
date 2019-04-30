@@ -1,0 +1,7 @@
+<style>
+        	.single-item .one-item {
+        		position: center;
+        		left: 0px; 
+        		top: 0px;
+        	}
+ </style>

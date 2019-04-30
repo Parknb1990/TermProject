@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<figure class="snip1283">
+  <img src="assets/img/Pl/liv.jpg" alt="sample70"/>
+  <figcaption>
+    <h3>Sue Shei</h3>
+    <p>The strength to change what I can, the inability to accept what I can't and the incapacity to tell the difference.</p><a href="#" class="read-more">Read More</a>
+  </figcaption>
+</figure>
+</body>
+</html>

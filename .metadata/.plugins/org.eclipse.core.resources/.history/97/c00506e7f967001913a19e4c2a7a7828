@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<link rel="stylesheet" href="css/core.css">
+<link rel="stylesheet" href="css/core2.css" media="only screen and (min-width:800px)">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<div class="page-hdr">회원가입</div>
+	<div class="section bg-eee phor-24">
+		<input type="text" name='userID" class="form-txt mtop-30" placeholder="이름">
+	
+	</div>
+	<div class="page-footer">MySNS COMPANY 2019</div>
+</body>
+</html>
